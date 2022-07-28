@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/scrubba", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/scrubba-rucksack-3in1-stealth-pack-18-l-wassersack-scrubba-5637887135.jpg":"\u002Fassets\u002Fimages\u002Fscrubba-rucksack-3in1-stealth-pack-18-l-wassersack-scrubba-5637887135.webp"}}],fetch:{},mutations:void 0});

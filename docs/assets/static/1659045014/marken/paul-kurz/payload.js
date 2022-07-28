@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/paul-kurz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/paul-kurz-engadin-packbeutel-paul-kurz-5637786598.jpg":"\u002Fassets\u002Fimages\u002Fpaul-kurz-engadin-packbeutel-paul-kurz-5637786598.webp"}}],fetch:{},mutations:void 0});
