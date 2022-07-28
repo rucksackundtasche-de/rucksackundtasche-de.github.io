@@ -1,0 +1,142 @@
+{
+    "domain": "rucksackundtasche.net",
+    "hostname": "https://www.rucksackundtasche.net",
+    "email": "rucksackundtasche.net@surrealnetworks.io",
+    "organization": "rucksackundtasche.net",
+    "logoText": "rucksackundtasche.net",                                             
+    "title": "Rucksäcke und Taschen | Outdoor Camping Ausrüstung",
+    "subline": "Rucksack und Tasche | online günstig kaufen für dein Abenteuer.",
+    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+
+        "5637247429",
+        
+        "5637929175",
+        
+        "5637928483"
+        
+        ],
+    "winnerProducts": [],
+    "featuredCategories": [],
+    "socialMediaAccounts": [{
+        "name": "Twitter",
+        "link": "https://www.twitter.com/rucksackundtasche.net",
+        "iconClass": "fab fa-twitter",
+        "published": false
+    }],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Rucksack",
+        "featureText": "<p class=\"mb-4\">Die beliebtesten und am besten bewerteten Rucksäcke des Jahres. Wir bieten eine große Auswahl an Tagesrucksäcken, Tourenrucksäcken, Trekkingrucksäcken und viele weitere Rucksäcke aus langlebigen Materialien. Von den neuesten Trends bis zu praktischen Klassikern.</p><p></p>",
+        "index": {
+            "title": "Der perfekte Rucksacke oder die perfekte Tasche für dein Adventure.",
+            "metaDescription": "Der beste Rucksack oder die beste Tasche für Reisen, Wandern, Camping und mehr. Finden Sie den perfekten Rucksack oder Tasche.",
+            "robots": "index, follow"
+        },
+        "shop": {
+            "title": "Alle Rucksack- und Taschen- Marken im Überblick.",
+            "metaDescription": "Hohe Qualität, top bewertet und die besten Preise vieler Marken jetzt hier günstig online kaufen.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle top Hersteller aufgelistet.",
+            "metaDescription": "Der Besitz eines hochwertigen Rucksacks oder Tasche ist ein wichtiger Bestandteil für deine Erlebnisse. Wir haben hier alle guten Hersteller im Überblick, um dir bei deiner Kaufentscheidung zu helfen.",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online kaufen | Rucksack - Tasche Shop",
+        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "noindex, follow",
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Rucksack - Tasche Shop",
+        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Preis-Leistungs-Sieger.",
+        "defaultRobots": "noindex, follow",
+        "categories": [{
+            "key": "Rucksack",
+            "slug": "Rucksack",
+            "name": "Rucksack",
+            "seo": {
+                "title": "Einen Rucksack günstig kaufen",
+                "metaDescription": "Hochwertige Rucksäcke und Taschen für Damen, Herren und Kinder. Finden Sie Ihre ideale Tasche oder Rucksack.",
+                "robots": "index, follow"
+            }
+        }]
+    },
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER | Rucksack - Tasche Online Shop",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER. Holen Sie sich die besten Rucksäcke und Taschen Angebote auf rucksackundtasche.net. Finden Sie tolle Preise auf eine riesige Auswahl von Trekkingrucksäcken, Tagesrucksäcken, Tourenrucksäcken oder bis hin zu Skirucksäcken.",
+        "defaultRobots": "noindex, follow",
+        "brands": [{
+                "key": "Deuter",
+                "name": "Deuter",
+                "seo": {
+                    "title": "Rucksack oder Tasche von Deuter online kaufen",
+                    "metaDescription": "Alle Produkte von Deuter im Überblick. Die Spitze der Rucksäcke und Taschen. Unsere Experten haben sich Hunderte von verschiedenen Optionen angesehen und dann die ihrer Meinung nach besten Rucksäcke herausgesucht.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "Ortovox",
+                "name": "Ortovox",
+                "seo": {
+                    "title": "Produkte von Ortovox günstig kaufen",
+                    "metaDescription": "Alle Produkte von Ortovox auf einem Blick. Produkte und Testsieger. Ortovox bietet einen einfachen Rucksack mit vielen Funktionen für Ihre Outdoor-Abenteuer und täglichem Gebrauch an.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Material",
+        "Stabilität",
+        "Nachhaltig",
+        "Komfort",
+        "Leistungsstark",
+        "Sehr gute Konstruktion",
+        "Grenzenlose Möglichkeiten",
+        "Passgenau einstellbar"
+    ],
+    "navigationLinks": [{
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Rucksack",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Rucksack - Tasche Online Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Rucksack- und Tasche- Marken"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ]
+}
