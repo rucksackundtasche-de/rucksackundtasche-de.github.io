@@ -3,7 +3,7 @@
     "hostname": "https://www.rucksackundtasche.net",
     "email": "rucksackundtasche.net@surrealnetworks.io",
     "organization": "rucksackundtasche.net",
-    "logoText": "rucksackundtasche.net",                                             
+    "logoText": "rucksackundtasche.net",
     "title": "Rucksäcke und Taschen | Outdoor Camping Ausrüstung",
     "subline": "Rucksack und Tasche | online günstig kaufen für dein Abenteuer.",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
@@ -14,16 +14,23 @@
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
     "popularProducts": [
-
-        "5637247429",
-        
-        "5637929175",
-        
-        "5637928483"
-        
-        ],
-    "winnerProducts": [],
-    "featuredCategories": [],
+        "5637867814",
+        "5637203990",
+        "5637981601"
+    ],
+    "winnerProducts": [
+        "5637769672",
+        "5637203957",
+        "5637927194"
+    ],
+    "featuredCategories": [
+        "Kulturtaschen",
+        "Reisetaschen und Rollkoffer",
+        "Tagesrucksäcke",
+        "Trekkingrucksäcke",
+        "Umhängetaschen",
+        "Hüfttaschen"
+    ],
     "socialMediaAccounts": [{
         "name": "Twitter",
         "link": "https://www.twitter.com/rucksackundtasche.net",

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/brooks-england", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/brooks-england-dalston-tex-nylon-20l-fahrradrucksack-brooks-england-5637747659.jpg":"\u002Fassets\u002Fimages\u002Fbrooks-england-dalston-tex-nylon-20l-fahrradrucksack-brooks-england-5637747659.webp"}}],fetch:{},mutations:void 0});

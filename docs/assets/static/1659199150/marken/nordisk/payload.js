@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/nordisk", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/nordisk-durin-spacemaker-packbeutel-nordisk-5637227705.jpg":"\u002Fassets\u002Fimages\u002Fnordisk-durin-spacemaker-packbeutel-nordisk-5637227705.webp"}}],fetch:{},mutations:void 0});
