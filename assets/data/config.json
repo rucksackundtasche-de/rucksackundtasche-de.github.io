@@ -4,8 +4,8 @@
     "email": "rucksackundtasche.net@surrealnetworks.io",
     "organization": "rucksackundtasche.net",
     "logoText": "rucksackundtasche.net",
-    "title": "Rucksäcke und Taschen | Outdoor Camping Ausrüstung",
-    "subline": "Rucksack und Tasche | online günstig kaufen für dein Abenteuer.",
+    "title": "Rucksäcke und Taschen für den Globetrotter",
+    "subline": "Der Globetrotter Shop für Rucksäcke und Taschen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -40,7 +40,7 @@
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
-        "mainKeyword": "Rucksack",
+        "mainKeyword": "Rucksack und Taschen",
         "featureText": "<p class=\"mb-4\">Die beliebtesten und am besten bewerteten Rucksäcke des Jahres. Wir bieten eine große Auswahl an Tagesrucksäcken, Tourenrucksäcken, Trekkingrucksäcken und viele weitere Rucksäcke aus langlebigen Materialien. Von den neuesten Trends bis zu praktischen Klassikern.</p><p></p>",
         "index": {
             "title": "Der perfekte Rucksacke oder die perfekte Tasche für dein Adventure.",
@@ -59,9 +59,9 @@
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT online kaufen | Rucksack - Tasche Shop",
-        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "$PRODUKT online kaufen | Rucksack und Taschen Shop",
+        "defaultMetaDescription": "Kaufe das Produkt $PRODUKT vom $HERSTELLER in unserem Rucksack und Taschen Shop. Wir bieten den besten online Preis. Kostenloser Versand.",
+        "defaultRobots": "index, follow",
         "products": [{
             "sku": "5637909794",
             "name": "Ortovox PALA PANTS Kletterhose",
@@ -73,9 +73,9 @@
         }]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Rucksack - Tasche Shop",
-        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Preis-Leistungs-Sieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "$KATEGORIE | Rucksack und Taschen Shop",
+        "defaultMetaDescription": "Alle Rucksäcke und Taschen aus der Kategorie $KATEGORIE im Überblick. Wir bieten den besten Preis im Netz. Produkte auf Lager.",
+        "defaultRobots": "index, follow",
         "categories": [{
             "key": "Rucksack",
             "slug": "Rucksack",
@@ -88,9 +88,9 @@
         }]
     },
     "brandSeo": {
-        "defaultTitle": "Produkte von $HERSTELLER | Rucksack - Tasche Online Shop",
-        "defaultMetaDescription": "Alle Produkte von $HERSTELLER. Holen Sie sich die besten Rucksäcke und Taschen Angebote auf rucksackundtasche.net. Finden Sie tolle Preise auf eine riesige Auswahl von Trekkingrucksäcken, Tagesrucksäcken, Tourenrucksäcken oder bis hin zu Skirucksäcken.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "Produkte von $HERSTELLER | Rucksack und Taschen Shop",
+        "defaultMetaDescription": "Taschen von $HERSTELLER findest du in unserem Rucksack und Taschen Shop. Holen Sie sich die besten Rucksäcke und Taschen Angebote. Kostenloser Versand.",
+        "defaultRobots": "index, follow",
         "brands": [{
                 "key": "Deuter",
                 "name": "Deuter",
