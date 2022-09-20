@@ -1,10 +1,10 @@
 {
     "configIsReady": true,
-    "domain": "rucksackundtasche.net",
+    "domain": "rucksackundtasche.de",
     "hostname": "https://www.rucksackundtasche.de",
-    "email": "rucksackundtasche.net@surrealnetworks.io",
-    "organization": "rucksackundtasche.net",
-    "logoText": "rucksackundtasche.net",
+    "email": "rucksackundtasche.de@surrealnetworks.io",
+    "organization": "rucksackundtasche.de",
+    "logoText": "rucksackundtasche.de",
     "title": "Rucksäcke und Taschen für den Globetrotter",
     "subline": "Der Globetrotter Shop für Rucksäcke und Taschen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
@@ -34,7 +34,7 @@
     ],
     "socialMediaAccounts": [{
         "name": "Twitter",
-        "link": "https://www.twitter.com/rucksackundtasche.net",
+        "link": "https://www.twitter.com/rucksackundtasche.de",
         "iconClass": "fab fa-twitter",
         "published": false
     }],
