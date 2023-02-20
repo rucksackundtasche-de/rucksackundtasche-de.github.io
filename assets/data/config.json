@@ -46,7 +46,60 @@
         "index": {
             "title": "Der perfekte Rucksacke oder die perfekte Tasche für dein Adventure.",
             "metaDescription": "Der beste Rucksack oder die beste Tasche für Reisen, Wandern, Camping und mehr. Finden Sie den perfekten Rucksack oder Tasche.",
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "texts": [{
+                    "title": "Rucksack und Tasche - Ihr Online-Shop für hochwertige Taschen",
+                    "text": "Willkommen bei Rucksack und Tasche, Ihrem Online-Shop für hochwertige Rucksäcke und Taschen. Wir bieten eine große Auswahl an Reisetaschen, Tagesrucksäcken, Trekkingrucksäcken und vielen weiteren Taschen für jeden Bedarf:"
+                },
+                {
+                    "title": "Perfekte Reisetaschen und Rollkoffer für unterwegs",
+                    "text": "Unsere <a href=\"/kategorie/reisetaschen-und-rollkoffer/\" title=\"Reisetaschen und Rollkoffer\">Reisetaschen und Rollkoffer</a> sind die perfekte Wahl für alle, die gerne reisen. Ob Sie auf Geschäftsreise oder im Urlaub sind, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
+                },
+                {
+                    "title": "Sack und Pack - die ideale Tasche für jedes Abenteuer",
+                    "text": "Unsere <a href=\"/kategorie/sack-und-pack/\" title=\"Sack und Pack\">Sack und Pack</a> Taschen sind die perfekte Wahl für alle, die gerne unterwegs sind. Ob Sie einen Tagesausflug machen oder eine längere Reise planen, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
+                },
+                {
+                    "title": "Stylishe Umhängetaschen für den Alltag",
+                    "text": "Unsere <a href=\"/kategorie/umhaengetaschen/\" title=\"Umhängetaschen\">Umhängetaschen</a> sind der perfekte Begleiter für den Alltag. Ob Sie zur Arbeit gehen oder einen Tag in der Stadt verbringen, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
+                },
+                {
+                    "title": "Praktische Tagesrucksäcke für unterwegs",
+                    "text": "Unsere <a href=\"/kategorie/tagesrucksaecke/\" title=\"Tagesrucksäcke\">Tagesrucksäcke</a> sind die perfekte Wahl für alle, die gerne unterwegs sind. Ob Sie einen Tagesausflug machen oder eine längere Reise planen, wir haben den perfekten Rucksack für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
+                },
+                {
+                    "title": "Komfortable Hüfttaschen für den Alltag",
+                    "text": "Unsere <a href=\"/kategorie/huefttaschen/\" title=\"Hüfttaschen\">Hüfttaschen</a> sind der perfekte Begleiter für den Alltag. Ob Sie zur Arbeit gehen oder einen Tag in der Stadt verbringen, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
+                },
+                {
+                    "title": "Rucksackzubehör und Ersatzteile für den perfekten Rucksack",
+                    "text": "Wir bieten eine große Auswahl an <a href=\"/kategorie/rucksackzubehoer-und-ersatzteile/\" title=\"Rucksackzubehör und Ersatzteile\">Rucksackzubehör und Ersatzteile</a>n, damit Sie Ihren Rucksack immer in einwandfreiem Zustand halten können. Wählen Sie aus unserer Auswahl an Trinksystemen, Regenhüllen und vielem mehr, um Ihren Rucksack optimal zu erweitern."
+                },
+                {
+                    "title": "Sichere Wertsachenverwahrung für unterwegs",
+                    "text": "Unsere <a href=\"/kategorie/wertsachenverwahrung/\" title=\"Wertsachenverwahrung\">Wertsachenverwahrung</a> bietet Ihnen eine sichere und bequeme Möglichkeit, Ihre Wertsachen aufzubewahren, während Sie unterwegs sind. Wählen Sie aus unserer Auswahl an verschließbaren Taschen und Geldbörsen, um Ihre Wertsachen sicher zu verstauen."
+                },
+                {
+                    "title": "Robuste Tourenrucksäcke für die Natur",
+                    "text": "Unsere <a href=\"/kategorie/tourenrucksaecke/\" title=\"Tourenrucksäcke\">Tourenrucksäcke</a> sind die perfekte Wahl für alle, die gerne in der Natur unterwegs sind. Ob Sie wandern, klettern oder campen, wir haben den perfekten Rucksack für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
+                },
+                {
+                    "title": "Perfekte Trekkingrucksäcke für jedes Abenteuer",
+                    "text": "Unsere <a href=\"/kategorie/trekkingrucksaecke/\" title=\"Trekkingrucksäcke\">Trekkingrucksäcke</a> sind die perfekte Wahl für alle, die gerne in der Natur unterwegs sind. Ob Sie wandern, klettern oder campen, wir haben den perfekten Rucksack für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
+                },
+                {
+                    "title": "Stylische Kulturtaschen für unterwegs",
+                    "text": "Unsere <a href=\"/kategorie/kulturtaschen/\" title=\"Kulturtaschen\">Kulturtaschen</a> sind der perfekte Begleiter für alle, die gerne unterwegs sind. Ob Sie zur Arbeit gehen oder einen Tag in der Stadt verbringen, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
+                },
+                {
+                    "title": "Praktische Trinksysteme für unterwegs",
+                    "text": "Wir bieten eine große Auswahl an <a href=\"/kategorie/trinksysteme/\" title=\"Trinksysteme\">Trinksystemen</a>, damit Sie immer Wasser griffbereit haben. Ob Sie wandern, klettern oder einfach nur unterwegs sind, wir haben den perfekten Trekkingrucksack für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden. Unsere Trekkingrucksäcke sind robust und langlebig, so dass Sie sich auf Ihre Abenteuer konzentrieren können, ohne sich Gedanken über Ihre Ausrüstung machen zu müssen."
+                },
+                {
+                    "title": "Hybride Kofferrucksäcke - der perfekte Begleiter für unterwegs",
+                    "text": "Unsere <a href=\"/kategorie/kofferrucksaecke/\" title=\"Kofferrucksäcke\">Kofferrucksäcke</a> sind die perfekte Wahl für alle, die gerne unterwegs sind. Ob Sie wandern, klettern oder einfach nur unterwegs sind, wir haben den perfekten Rucksack-Koffer-Hybriden für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
+                }
+            ]
         },
         "shop": {
             "title": "Alle Rucksack- und Taschen- Marken im Überblick.",
