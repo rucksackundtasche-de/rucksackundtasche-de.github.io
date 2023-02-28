@@ -32,12 +32,14 @@
         "Umhängetaschen",
         "Hüfttaschen"
     ],
-    "socialMediaAccounts": [{
-        "name": "Twitter",
-        "link": "https://www.twitter.com/rucksackundtasche.de",
-        "iconClass": "fab fa-twitter",
-        "published": false
-    }],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/rucksackundtasche.de",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
@@ -47,59 +49,63 @@
             "title": "Der perfekte Rucksacke oder die perfekte Tasche für dein Adventure.",
             "metaDescription": "Der beste Rucksack oder die beste Tasche für Reisen, Wandern, Camping und mehr. Finden Sie den perfekten Rucksack oder Tasche.",
             "robots": "index, follow",
-            "texts": [{
-                    "title": "Rucksack und Tasche - Ihr Online-Shop für hochwertige Taschen",
-                    "text": "Willkommen bei Rucksack und Tasche, Ihrem Online-Shop für hochwertige Rucksäcke und Taschen. Wir bieten eine große Auswahl an Reisetaschen, Tagesrucksäcken, Trekkingrucksäcken und vielen weiteren Taschen für jeden Bedarf:"
-                },
-                {
-                    "title": "Perfekte Reisetaschen und Rollkoffer für unterwegs",
-                    "text": "Unsere <a href=\"/kategorie/reisetaschen-und-rollkoffer/\" title=\"Reisetaschen und Rollkoffer\">Reisetaschen und Rollkoffer</a> sind die perfekte Wahl für alle, die gerne reisen. Ob Sie auf Geschäftsreise oder im Urlaub sind, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
-                },
-                {
-                    "title": "Sack und Pack - die ideale Tasche für jedes Abenteuer",
-                    "text": "Unsere <a href=\"/kategorie/sack-und-pack/\" title=\"Sack und Pack\">Sack und Pack</a> Taschen sind die perfekte Wahl für alle, die gerne unterwegs sind. Ob Sie einen Tagesausflug machen oder eine längere Reise planen, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
-                },
-                {
-                    "title": "Stylishe Umhängetaschen für den Alltag",
-                    "text": "Unsere <a href=\"/kategorie/umhaengetaschen/\" title=\"Umhängetaschen\">Umhängetaschen</a> sind der perfekte Begleiter für den Alltag. Ob Sie zur Arbeit gehen oder einen Tag in der Stadt verbringen, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
-                },
-                {
-                    "title": "Praktische Tagesrucksäcke für unterwegs",
-                    "text": "Unsere <a href=\"/kategorie/tagesrucksaecke/\" title=\"Tagesrucksäcke\">Tagesrucksäcke</a> sind die perfekte Wahl für alle, die gerne unterwegs sind. Ob Sie einen Tagesausflug machen oder eine längere Reise planen, wir haben den perfekten Rucksack für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
-                },
-                {
-                    "title": "Komfortable Hüfttaschen für den Alltag",
-                    "text": "Unsere <a href=\"/kategorie/huefttaschen/\" title=\"Hüfttaschen\">Hüfttaschen</a> sind der perfekte Begleiter für den Alltag. Ob Sie zur Arbeit gehen oder einen Tag in der Stadt verbringen, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
-                },
-                {
-                    "title": "Rucksackzubehör und Ersatzteile für den perfekten Rucksack",
-                    "text": "Wir bieten eine große Auswahl an <a href=\"/kategorie/rucksackzubehoer-und-ersatzteile/\" title=\"Rucksackzubehör und Ersatzteile\">Rucksackzubehör und Ersatzteile</a>n, damit Sie Ihren Rucksack immer in einwandfreiem Zustand halten können. Wählen Sie aus unserer Auswahl an Trinksystemen, Regenhüllen und vielem mehr, um Ihren Rucksack optimal zu erweitern."
-                },
-                {
-                    "title": "Sichere Wertsachenverwahrung für unterwegs",
-                    "text": "Unsere <a href=\"/kategorie/wertsachenverwahrung/\" title=\"Wertsachenverwahrung\">Wertsachenverwahrung</a> bietet Ihnen eine sichere und bequeme Möglichkeit, Ihre Wertsachen aufzubewahren, während Sie unterwegs sind. Wählen Sie aus unserer Auswahl an verschließbaren Taschen und Geldbörsen, um Ihre Wertsachen sicher zu verstauen."
-                },
-                {
-                    "title": "Robuste Tourenrucksäcke für die Natur",
-                    "text": "Unsere <a href=\"/kategorie/tourenrucksaecke/\" title=\"Tourenrucksäcke\">Tourenrucksäcke</a> sind die perfekte Wahl für alle, die gerne in der Natur unterwegs sind. Ob Sie wandern, klettern oder campen, wir haben den perfekten Rucksack für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
-                },
-                {
-                    "title": "Perfekte Trekkingrucksäcke für jedes Abenteuer",
-                    "text": "Unsere <a href=\"/kategorie/trekkingrucksaecke/\" title=\"Trekkingrucksäcke\">Trekkingrucksäcke</a> sind die perfekte Wahl für alle, die gerne in der Natur unterwegs sind. Ob Sie wandern, klettern oder campen, wir haben den perfekten Rucksack für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
-                },
-                {
-                    "title": "Stylische Kulturtaschen für unterwegs",
-                    "text": "Unsere <a href=\"/kategorie/kulturtaschen/\" title=\"Kulturtaschen\">Kulturtaschen</a> sind der perfekte Begleiter für alle, die gerne unterwegs sind. Ob Sie zur Arbeit gehen oder einen Tag in der Stadt verbringen, wir haben die perfekte Tasche für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
-                },
-                {
-                    "title": "Praktische Trinksysteme für unterwegs",
-                    "text": "Wir bieten eine große Auswahl an <a href=\"/kategorie/trinksysteme/\" title=\"Trinksysteme\">Trinksystemen</a>, damit Sie immer Wasser griffbereit haben. Ob Sie wandern, klettern oder einfach nur unterwegs sind, wir haben den perfekten Trekkingrucksack für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden. Unsere Trekkingrucksäcke sind robust und langlebig, so dass Sie sich auf Ihre Abenteuer konzentrieren können, ohne sich Gedanken über Ihre Ausrüstung machen zu müssen."
-                },
-                {
-                    "title": "Hybride Kofferrucksäcke - der perfekte Begleiter für unterwegs",
-                    "text": "Unsere <a href=\"/kategorie/kofferrucksaecke/\" title=\"Kofferrucksäcke\">Kofferrucksäcke</a> sind die perfekte Wahl für alle, die gerne unterwegs sind. Ob Sie wandern, klettern oder einfach nur unterwegs sind, wir haben den perfekten Rucksack-Koffer-Hybriden für Sie. Wählen Sie aus unserer großen Auswahl an Größen und Designs, um Ihren Bedürfnissen gerecht zu werden."
-                }
-            ]
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Rucksack und Tasche!",
+                        "text": "Herzlich willkommen auf unserer Online-Shop-Seite https://www.rucksackundtasche.de/. Wir sind ein Team von Reise- und Outdoor-Enthusiasten, die es uns zur Aufgabe gemacht haben, Ihnen hochwertige Rucksäcke und Taschen zu einem erschwinglichen Preis anzubieten. Unsere Produkte sind speziell für Menschen entwickelt, die viel unterwegs sind und Wert auf Stil, Funktionalität und Komfort legen.In unserem Online-Shop finden Sie eine breite Auswahl an verschiedenen Taschen- und Rucksack-Kategorien, wie Reisetaschen und Rollkoffer, Umhängetaschen, Tagesrucksäcke, Hüfttaschen, Tourenrucksäcke und vieles mehr. Wir bieten auch Rucksackzubehör und Ersatzteile, Wertsachenverwahrung, Trinksysteme und Kofferrucksäcke.Unsere Produkte werden von erfahrenen Experten ausgewählt und getestet, um sicherzustellen, dass sie den höchsten Qualitätsstandards entsprechen. Wir legen großen Wert darauf, dass unsere Kunden mit ihren Produkten vollständig zufrieden sind und bieten daher eine 100% ige Zufriedenheitsgarantie an.Schauen Sie sich gerne in Ruhe um und entdecken Sie die Vielfalt an Taschen und Rucksäcken, die wir für Sie bereithalten. Wir sind immer bereit, Ihnen bei Fragen oder Anliegen zu helfen und stehen Ihnen jederzeit zur Verfügung. Viel Spaß beim Einkaufen!"
+                    },
+                    {
+                        "title": "Reisetaschen und Rollkoffer",
+                        "text": "Entdecken Sie unser breites Sortiment an hochwertigen <a href=\"/kategorie/reisetaschen-und-rollkoffer/\" title=\"Reisetaschen und Rollkoffer\">Reisetaschen und Rollkoffer</a>n. Unsere Produkte bieten Ihnen nicht nur eine bequeme Art, Ihre Ausrüstung zu transportieren, sondern auch eine stylische Ergänzung für jede Reise. Wählen Sie aus einer Vielzahl von Größen und Farben, um den perfekten Koffer für Ihre Bedürfnisse zu finden. Alle unsere Taschen sind robust und langlebig, damit Sie sie auf Ihren Abenteuern immer wieder verwenden können."
+                    },
+                    {
+                        "title": "Sack und Pack",
+                        "text": "Erleben Sie den ultimativen Tragekomfort mit unseren <a href=\"/kategorie/sack-und-pack/\" title=\"Sack und Pack\">Sack und Pack</a> Taschen. Unsere Taschen sind perfekt für den täglichen Gebrauch oder für längere Ausflüge geeignet. Wir bieten eine große Auswahl an Größen und Farben, damit Sie genau das finden, was Sie brauchen. Alle unsere Taschen sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Sack und Pack Taschen."
+                    },
+                    {
+                        "title": "Umhängetaschen",
+                        "text": "Stilvoll unterwegs mit unseren <a href=\"/kategorie/umhaengetaschen/\" title=\"Umhängetaschen\">Umhängetaschen</a>. Unsere Taschen sind der perfekte Begleiter für jeden Tag. Ob für die Arbeit, das Einkaufen oder einen Spaziergang, mit unseren Umhängetaschen haben Sie alles bei sich. Wählen Sie aus einer großen Auswahl an Farben und Designs, um genau die Tasche zu finden, die zu Ihnen passt. Alle unsere Umhängetaschen sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Umhängetaschen."
+                    },
+                    {
+                        "title": "Tagesrucksäcke",
+                        "text": "Entdecken Sie unser umfassendes Sortiment an <a href=\"/kategorie/tagesrucksaecke/\" title=\"Tagesrucksäcke\">Tagesrucksäcke</a>n. Unsere Tagesrucksäcke bieten Ihnen den perfekten Kompromiss aus Stil und Funktionalität. Ob für den täglichen Gebrauch oder für kurze Ausflüge, unsere Tagesrucksäcke bieten genug Stauraum für alles, was Sie brauchen. Wählen Sie aus einer Vielzahl von Farben und Designs, um genau den Rucksack zu finden, der zu Ihnen passt. Alle unsere Tagesrucksäcke sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit."
+                    },
+                    {
+                        "title": "Hüfttaschen",
+                        "text": "Tragen Sie Ihre wichtigsten Gegenstände bequem und stilvoll mit unseren <a href=\"/kategorie/huefttaschen/\" title=\"Hüfttaschen\">Hüfttaschen</a>. Unsere Taschen sind perfekt für den täglichen Gebrauch oder für kurze Ausflüge geeignet. Wir bieten eine große Auswahl an Farben und Designs, damit Sie genau das finden, was Sie brauchen. Alle unsere Hüfttaschen sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Hüfttaschen."
+                    },
+                    {
+                        "title": "Rucksackzubehör und Ersatzteile",
+                        "text": "Halten Sie Ihren Rucksack in einwandfreiem Zustand mit unserem breiten Sortiment an <a href=\"/kategorie/rucksackzubehoer-und-ersatzteile/\" title=\"Rucksackzubehör und Ersatzteile\">Rucksackzubehör und Ersatzteile</a>n. Ob Sie Ersatzteile benötigen oder Ihren Rucksack aufrüsten möchten, wir haben alles, was Sie brauchen. Wählen Sie aus einer Vielzahl von Optionen, um genau das zu finden, was Sie benötigen. Alle unsere Produkte sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Rucksackzubehör und Ersatzteilen."
+                    },
+                    {
+                        "title": "Wertsachenverwahrung",
+                        "text": "Schützen Sie Ihre wichtigsten Gegenstände mit unseren <a href=\"/kategorie/wertsachenverwahrung/\" title=\"Wertsachenverwahrung\">Wertsachenverwahrung</a>en. Unsere Verwahrungen bieten Ihnen eine sichere und praktische Möglichkeit, Ihre Wertsachen während des Reisens oder bei anderen Aktivitäten zu verstauen. Wählen Sie aus einer Vielzahl von Größen und Farben, um genau das zu finden, was Sie brauchen. Alle unsere Verwahrungen sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Wertsachenverwahrungen."
+                    },
+                    {
+                        "title": "Tourenrucksäcke",
+                        "text": "Erleben Sie die Natur mit unseren hochwertigen <a href=\"/kategorie/tourenrucksaecke/\" title=\"Tourenrucksäcke\">Tourenrucksäcke</a>n. Unsere Rucksäcke sind perfekt für längere Wanderungen und Trekking-Abenteuer geeignet. Wir bieten eine große Auswahl an Größen und Farben, damit Sie genau den Rucksack finden, den Sie brauchen. Alle unsere Tourenrucksäcke sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Tourenrucksäcken."
+                    },
+                    {
+                        "title": "Trekkingrucksäcke",
+                        "text": "Erleben Sie die Natur in vollen Zügen mit unseren <a href=\"/kategorie/trekkingrucksaecke/\" title=\"Trekkingrucksäcke\">Trekkingrucksäcke</a>n. Unsere Rucksäcke sind perfekt für längere Trekking-Abenteuer geeignet und bieten genug Stauraum für alles, was Sie brauchen. Wählen Sie aus einer Vielzahl von Größen und Farben, um genau den Rucksack zu finden, der zu Ihnen passt. Alle unsere Trekkingrucksäcke sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Trekkingrucksäcken."
+                    },
+                    {
+                        "title": "Kulturtaschen",
+                        "text": "Tragen Sie Ihre Kulturgegenstände sicher und stilvoll mit unseren <a href=\"/kategorie/kulturtaschen/\" title=\"Kulturtaschen\">Kulturtaschen</a>. Unsere Taschen sind perfekt für den Transport von Musikinstrumenten, Kunstwerken oder anderen wertvollen Gegenständen geeignet. Wählen Sie aus einer Vielzahl von Größen und Farben, um genau die Tasche zu finden, die zu Ihnen passt. Alle unsere Kulturtaschen sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Kulturtaschen."
+                    },
+                    {
+                        "title": "Trinksysteme",
+                        "text": "Bleiben Sie auf Ihren Abenteuern immer hydriert mit unseren <a href=\"/kategorie/trinksysteme/\" title=\"Trinksysteme\">Trinksysteme</a>n. Unsere Systeme sind perfekt für den Einsatz beim Wandern, Trekking oder anderen Aktivitäten geeignet. Wir bieten eine große Auswahl an Größen und Farben, damit Sie genau das finden, was Sie brauchen. Alle unsere Trinksysteme sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Trinksystemen."
+                    },
+                    {
+                        "title": "Kofferrucksäcke",
+                        "text": "Kombinieren Sie den Komfort eines Koffers mit dem Tragekomfort eines Rucksacks mit unseren <a href=\"/kategorie/kofferrucksaecke/\" title=\"Kofferrucksäcke\">Kofferrucksäcke</a>n. Unsere Rucksäcke sind perfekt für den Transport von Gepäck auf Reisen oder für den täglichen Gebrauch geeignet. Wählen Sie aus einer Vielzahl von Größen und Farben, um genau den Rucksack zu finden, der zu Ihnen passt. Alle unsere Kofferrucksäcke sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit. Entdecken Sie jetzt unser Angebot an Kofferrucksäcken."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Alle Rucksack- und Taschen- Marken im Überblick.",
@@ -116,36 +122,41 @@
         "defaultTitle": "$PRODUKT online kaufen | Rucksack und Taschen Shop",
         "defaultMetaDescription": "Kaufe das Produkt $PRODUKT vom $HERSTELLER in unserem Rucksack und Taschen Shop. Wir bieten den besten online Preis. Kostenloser Versand.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Rucksack und Taschen Shop",
         "defaultMetaDescription": "Alle Rucksäcke und Taschen aus der Kategorie $KATEGORIE im Überblick. Wir bieten den besten Preis im Netz. Produkte auf Lager.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "Rucksack",
-            "slug": "Rucksack",
-            "name": "Rucksack",
-            "seo": {
-                "title": "Einen Rucksack günstig kaufen",
-                "metaDescription": "Hochwertige Rucksäcke und Taschen für Damen, Herren und Kinder. Finden Sie Ihre ideale Tasche oder Rucksack.",
-                "robots": "index, follow"
+        "categories": [
+            {
+                "key": "Rucksack",
+                "slug": "Rucksack",
+                "name": "Rucksack",
+                "seo": {
+                    "title": "Einen Rucksack günstig kaufen",
+                    "metaDescription": "Hochwertige Rucksäcke und Taschen für Damen, Herren und Kinder. Finden Sie Ihre ideale Tasche oder Rucksack.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "Produkte von $HERSTELLER | Rucksack und Taschen Shop",
         "defaultMetaDescription": "Taschen von $HERSTELLER findest du in unserem Rucksack und Taschen Shop. Holen Sie sich die besten Rucksäcke und Taschen Angebote. Kostenloser Versand.",
         "defaultRobots": "index, follow",
-        "brands": [{
+        "brands": [
+            {
                 "key": "Deuter",
                 "name": "Deuter",
                 "seo": {
@@ -175,7 +186,8 @@
         "Grenzenlose Möglichkeiten",
         "Passgenau einstellbar"
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Home",
             "linkTo": "/",
             "linkTitle": "Rucksack",
