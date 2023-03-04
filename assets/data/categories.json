@@ -1,1 +1,86 @@
-[{"key": "reisetaschen und rollkoffer", "name": "Reisetaschen und Rollkoffer", "slug": "reisetaschen-und-rollkoffer", "productCategory": "Reisetaschen und Rollkoffer", "subCategories": []}, {"key": "sack und pack", "name": "Sack und Pack", "slug": "sack-und-pack", "productCategory": "Sack und Pack", "subCategories": []}, {"key": "umhängetaschen", "name": "Umhängetaschen", "slug": "umhaengetaschen", "productCategory": "Umhängetaschen", "subCategories": []}, {"key": "tagesrucksäcke", "name": "Tagesrucksäcke", "slug": "tagesrucksaecke", "productCategory": "Tagesrucksäcke", "subCategories": []}, {"key": "hüfttaschen", "name": "Hüfttaschen", "slug": "huefttaschen", "productCategory": "Hüfttaschen", "subCategories": []}, {"key": "rucksackzubehör und ersatzteile", "name": "Rucksackzubehör und Ersatzteile", "slug": "rucksackzubehoer-und-ersatzteile", "productCategory": "Rucksackzubehör und Ersatzteile", "subCategories": []}, {"key": "wertsachenverwahrung", "name": "Wertsachenverwahrung", "slug": "wertsachenverwahrung", "productCategory": "Wertsachenverwahrung", "subCategories": []}, {"key": "tourenrucksäcke", "name": "Tourenrucksäcke", "slug": "tourenrucksaecke", "productCategory": "Tourenrucksäcke", "subCategories": []}, {"key": "trekkingrucksäcke", "name": "Trekkingrucksäcke", "slug": "trekkingrucksaecke", "productCategory": "Trekkingrucksäcke", "subCategories": []}, {"key": "kulturtaschen", "name": "Kulturtaschen", "slug": "kulturtaschen", "productCategory": "Kulturtaschen", "subCategories": []}, {"key": "trinksysteme", "name": "Trinksysteme", "slug": "trinksysteme", "productCategory": "Trinksysteme", "subCategories": []}, {"key": "kofferrucksäcke", "name": "Kofferrucksäcke", "slug": "kofferrucksaecke", "productCategory": "Kofferrucksäcke", "subCategories": []}]
+[
+    {
+        "key": "reisetaschen und rollkoffer",
+        "name": "Reisetaschen und Rollkoffer",
+        "slug": "reisetaschen-und-rollkoffer",
+        "productCategory": "Reisetaschen und Rollkoffer",
+        "subCategories": []
+    },
+    {
+        "key": "sack und pack",
+        "name": "Sack und Pack",
+        "slug": "sack-und-pack",
+        "productCategory": "Sack und Pack",
+        "subCategories": []
+    },
+    {
+        "key": "umhängetaschen",
+        "name": "Umhängetaschen",
+        "slug": "umhaengetaschen",
+        "productCategory": "Umhängetaschen",
+        "subCategories": []
+    },
+    {
+        "key": "tagesrucksäcke",
+        "name": "Tagesrucksäcke",
+        "slug": "tagesrucksaecke",
+        "productCategory": "Tagesrucksäcke",
+        "subCategories": []
+    },
+    {
+        "key": "hüfttaschen",
+        "name": "Hüfttaschen",
+        "slug": "huefttaschen",
+        "productCategory": "Hüfttaschen",
+        "subCategories": []
+    },
+    {
+        "key": "rucksackzubehör und ersatzteile",
+        "name": "Rucksackzubehör und Ersatzteile",
+        "slug": "rucksackzubehoer-und-ersatzteile",
+        "productCategory": "Rucksackzubehör und Ersatzteile",
+        "subCategories": []
+    },
+    {
+        "key": "wertsachenverwahrung",
+        "name": "Wertsachenverwahrung",
+        "slug": "wertsachenverwahrung",
+        "productCategory": "Wertsachenverwahrung",
+        "subCategories": []
+    },
+    {
+        "key": "tourenrucksäcke",
+        "name": "Tourenrucksäcke",
+        "slug": "tourenrucksaecke",
+        "productCategory": "Tourenrucksäcke",
+        "subCategories": []
+    },
+    {
+        "key": "trekkingrucksäcke",
+        "name": "Trekkingrucksäcke",
+        "slug": "trekkingrucksaecke",
+        "productCategory": "Trekkingrucksäcke",
+        "subCategories": []
+    },
+    {
+        "key": "kulturtaschen",
+        "name": "Kulturtaschen",
+        "slug": "kulturtaschen",
+        "productCategory": "Kulturtaschen",
+        "subCategories": []
+    },
+    {
+        "key": "trinksysteme",
+        "name": "Trinksysteme",
+        "slug": "trinksysteme",
+        "productCategory": "Trinksysteme",
+        "subCategories": []
+    },
+    {
+        "key": "kofferrucksäcke",
+        "name": "Kofferrucksäcke",
+        "slug": "kofferrucksaecke",
+        "productCategory": "Kofferrucksäcke",
+        "subCategories": []
+    }
+]
